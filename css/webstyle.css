@@ -1,0 +1,12 @@
+.mySlides {
+  display:none;
+}
+
+.ui.borderless.menu{
+  background-color: #e3e3e3;
+}
+
+.ui.segment p{
+  color: pink;
+  font-family: fantasy;
+}

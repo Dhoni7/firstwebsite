@@ -1,0 +1,9 @@
+.ui.container{
+  margin-top: 150px;
+  width:600px;
+  height:600px;
+}
+
+.ui.section{
+ background-color:white;
+}
